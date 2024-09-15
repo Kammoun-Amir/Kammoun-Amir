@@ -1,4 +1,6 @@
-## Hi there 👋
+<!-- ## Hi there 👋 -->
+
+<img width="1247" alt="Amir" src="https://github.com/user-attachments/assets/cd18e365-268b-42f6-8f71-b46da41d11b3">
 
 <!-- SKILLS  -->
 <h2 align="center">Languages-Frameworks-Tools</h2>
