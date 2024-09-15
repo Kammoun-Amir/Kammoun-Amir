@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+<!-- SKILLS  -->
 <h2 align="center">Languages-Frameworks-Tools</h2>
 <br/>
 <div align="center">
@@ -9,6 +10,20 @@
   <br/>
   <img src="https://skillicons.dev/icons?i=figma,ps,ai,xd" />
 </div>
+
+<br/>
+<hr/>
+
+<!-- contributions  -->
+<div align="center">
+  <h2>My Contributions <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50"></h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Kammoun-Amir/Kammoun-Amir/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
 
 <!--
 **Kammoun-Amir/Kammoun-Amir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
